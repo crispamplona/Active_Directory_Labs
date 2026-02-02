@@ -15,5 +15,13 @@ Download Requirements:
 After installing Workstation, I created 2 VMs (Virtual Machines):
   1. Lab Domain Controller (Acts as the server)
     - Set up password for admin : P@ssword!23
-     
   2. Lab Workstation (Acts as the host)
+     - Password : P@ssword2!3
+(Saved both as snapshots to enable template copying to create more workstations over time)
+
+  
+  
+    
+
+
+
