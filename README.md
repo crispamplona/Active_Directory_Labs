@@ -20,7 +20,7 @@ Tutorial Master:
      - Creating base templates to make more VMs over time
 
 # Steps
-After installing Workstation, I created 2 VMs (Virtual Machines) which act as my base templates for future VMs:
+1. After installing Workstation, I created 2 VMs (Virtual Machines) which act as my base templates for future VMs:
   1. Lab Domain Controller (Acts as the server)
     - Set up password for admin : P@ssword!23
   2. Lab Workstation (Acts as the host)
