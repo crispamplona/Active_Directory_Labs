@@ -7,17 +7,27 @@ Tutorial Master:
   John Hammond on YT /
   Active Directory playlist
 
-Download Requirements:
+# Download Requirements:
   1. Windows Server 2022 ISO
   2. Windows 11 ISO
   3. VMware Workstation Pro
 
-After installing Workstation, I created 2 VMs (Virtual Machines):
+# Objective
+  The main objective of this lab is to learn provide hands-on experience in setting up a home / virtual environment for testing and practical learning. By creating and configuring multiple VMs (Win11 & WinServer 2022 in this lab), we get to try and get a grasp of network configuration, ... (fill up as you learn)
+
+# Lessons / Skills learned 
+  1. Virtual Machine setup & configurations
+     - Creating base templates to make more VMs over time
+
+# Steps
+After installing Workstation, I created 2 VMs (Virtual Machines) which act as my base templates for future VMs:
   1. Lab Domain Controller (Acts as the server)
     - Set up password for admin : P@ssword!23
   2. Lab Workstation (Acts as the host)
      - Password : P@ssword2!3
-(Saved both as snapshots to enable template copying to create more workstations over time)
+
+<img width="464" height="314" alt="Base Templates" src="https://github.com/user-attachments/assets/29338970-8505-4494-bca6-cad8e444cadb" />
+
 
   
   
