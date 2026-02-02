@@ -21,12 +21,17 @@ Tutorial Master:
 
 # Steps
 1. After installing Workstation, I created 2 VMs (Virtual Machines) which act as my base templates for future VMs:
-  1. Lab Domain Controller (Acts as the server)
-    - Set up password for admin : P@ssword!23
-  2. Lab Workstation (Acts as the host)
-     - Password : P@ssword2!3
+    1. Lab Domain Controller (WinServer 2022)
+       - Set up: P@ssword!23
+    2. Lab Workstation (Win11)
+       - Password : P@ssword2!3
 
 <img width="464" height="314" alt="Base Templates" src="https://github.com/user-attachments/assets/29338970-8505-4494-bca6-cad8e444cadb" />
+
+2. Using the base WinServer, create a new template for our first VM
+    1. XYZ Domain Controller
+       - Installed VMware tools from the drive using D:/setup.exe
+       - 
 
 
   
