@@ -10,3 +10,4 @@ Tutorial Master:
 Download Requirements:
   1. Windows Server 2022 ISO
   2. Windows 11 ISO
+  3. VMware Workstation Pro
