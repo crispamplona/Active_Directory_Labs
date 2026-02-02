@@ -11,3 +11,9 @@ Download Requirements:
   1. Windows Server 2022 ISO
   2. Windows 11 ISO
   3. VMware Workstation Pro
+
+After installing Workstation, I created 2 VMs (Virtual Machines):
+  1. Lab Domain Controller (Acts as the server)
+    - Set up password for admin : P@ssword!23
+     
+  2. Lab Workstation (Acts as the host)
