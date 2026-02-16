@@ -34,10 +34,13 @@ Tutorial Master:
        - Configured static IP address, DNS server for remote connection
        - Installed AD for server
          
+<img width="1164" height="616" alt="XYZ DC1-2026-02-16-19-09-18" src="https://github.com/user-attachments/assets/0be29d5d-a59e-4b62-a59f-35038e84c795" />
+
+
     2. XYZ Management Client
        - Set up Remote Connection with DC1 IP address
        - Installed Chocolatey
-       - 
+       - Installed Git
 
 
   
