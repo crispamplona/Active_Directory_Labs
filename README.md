@@ -31,7 +31,12 @@ Tutorial Master:
 2. Using the base WinServer, create a new template for our first VM
     1. XYZ Domain Controller
        - Installed VMware tools from the drive using D:/setup.exe
+       - Configured static IP address, DNS server for remote connection
+       - Installed AD for server
+         
     2. XYZ Management Client
+       - Set up Remote Connection with DC1 IP address
+       - Installed Chocolatey
        - 
 
 
